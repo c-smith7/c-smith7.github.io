@@ -9,7 +9,6 @@ img: cookiecutter_post.png # Add image post (optional)
 
 -----
 
-![Test Video](/assets/demos/test.mp4)
 
 ```
 #### Keep stuff below until not needed..
