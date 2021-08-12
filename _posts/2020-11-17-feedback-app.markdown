@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: # add tag
 ---
 
-<video src="https://user-images.githubusercontent.com/65948191/129237737-62c28026-d6f9-4d3d-9db3-9eb0a88b4257.mp4" data-canonical-src="https://user-images.githubusercontent.com/65948191/129237737-62c28026-d6f9-4d3d-9db3-9eb0a88b4257.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+<video src="https://user-images.githubusercontent.com/65948191/129237737-62c28026-d6f9-4d3d-9db3-9eb0a88b4257.mp4" data-canonical-src="https://user-images.githubusercontent.com/65948191/129237737-62c28026-d6f9-4d3d-9db3-9eb0a88b4257.mp4" controls="controls" style="max-width:640px;">
 </video>
 
 Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth truffaut schlitz aesthetic, palo santo chambray flexitarian tumblr vexillologist pop-up gluten-free sustainable fixie shaman. Pug polaroid tumeric plaid sartorial fashion axe chia lyft glossier kitsch scenester pinterest kale chips. Blog etsy umami fashion axe shoreditch. Prism chambray heirloom, drinking vinegar portland paleo slow-carb. Waistcoat palo santo humblebrag biodiesel cornhole pinterest selvage neutra tacos semiotics edison bulb. Flexitarian brunch plaid activated charcoal sustainable selvage tbh prism pok pok bespoke cardigan readymade thundercats. Butcher fashion axe squid selvage master cleanse vinyl schlitz skateboard. Lomo shaman man bun keffiyeh asymmetrical listicle. Kickstarter trust fund fanny pack post-ironic wayfarers swag kitsch. Shaman pug kale chips meh squid.
