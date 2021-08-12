@@ -11,8 +11,6 @@ img: cookiecutter_post.png # Add image post (optional)
 
 
 
-![Test](https://user-images.githubusercontent.com/65948191/129072801-32f9a1f1-1876-40fe-87bd-4d293ea26cb7.mp4)
-
 
 
 ```
