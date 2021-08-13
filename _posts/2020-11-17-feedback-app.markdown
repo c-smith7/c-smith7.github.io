@@ -6,8 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: Feedback_App_post.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: # add tag
-demoID-1: 1P9GWHep467dMDUTLHIHh9Q1O2gG3gT3o/preview
-demoID-2: 1EJWFNJpR6yk1BSEaVUHYWWEWksJcc1cX/preview
+demoID-1: x5PklQwNHLs
+demoID-2: sxiohdGSpVY
 ---
 
 {% include demos.html id=page.demoID-1 %}

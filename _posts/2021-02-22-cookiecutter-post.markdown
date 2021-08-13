@@ -4,12 +4,13 @@ title: "Cookiecutter for Data Analysis"
 date: 2021-02-22 13:32:20 +0300
 description: A simple and straightforward cookiecutter template with jupyter notebooks.  # Add post description (optional)
 img: cookiecutter_post.png # Add image post (optional)
+demoID: vg2yOHwT7bo
 ---
 >Insert cookiecutter readme and info here
 
 -----
 
-{% include demos.html id=1ka0LgvA3YXqRBRjEpvvAaah9nXEUsnoQ/preview %}
+{% include demos.html id=page.demoID %}
 
 
 
