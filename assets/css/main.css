@@ -981,17 +981,16 @@ table tfoot td {
 
 .about .author-name::after {
   content: "";
-  position: absolute;
   left: 50%;
+  display: block;
+  height: 2px;
+  width: -webkit-calc(40% - 48px);
+  width: calc(40% - 48px);
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
+  position: absolute;
   bottom: 0;
-  display: block;
-  width: 7px;
-  height: 7px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
   background-color: #515151;
 }
 
@@ -1068,7 +1067,11 @@ table tfoot td {
 
 .tech-stack ul ul {
   list-style-position: inside;
-  padding-left: 25px;
+  padding-left: 21px;
+}
+
+.tech-stack ul li {
+  font-size: 14px
 }
 
 .contact .contact-title {
